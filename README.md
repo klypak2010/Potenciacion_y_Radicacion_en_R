@@ -1,1 +1,1 @@
-# Potenciaci-n-y-Radicaci-n-en-R
+# Potenciacion-Radicacion
